@@ -1,7 +1,7 @@
 # 🤖 Factory AI Multi-Agent Communication System
 **AIエージェント同士が自律的に会話・連携する工場IoTシステム**
 ## 起動手順：ターミナルを開く
-# cd /Users/takaakiy/factory_iot でディレクトリを移動する
+# cd /Users/xxxxx/factory_iot でディレクトリを移動する
 # ./start_factory_ai.sh でスタート
 ## 🎯 システムの特徴
 本システムの最大の特徴は、**人間がプロンプトを指示することなく、6つのAIエージェントが互いに自律的に通信し、工場の製造プロセスを最適化する**ことです。
