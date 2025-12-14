@@ -1,0 +1,10 @@
+[server]
+sslKeyPath = ".streamlit/key.pem"
+sslCertPath = ".streamlit/cert.pem"
+headless = true
+
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
